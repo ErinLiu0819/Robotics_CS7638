@@ -1,12 +1,7 @@
 ######################################################################
 # This file copyright the Georgia Institute of Technology
 #
-# Permission is given to students to use or modify this file (only)
-# to work on their assignments.
-#
-# You may NOT publish this file or make it available to others not in
-# the course.
-#
+# Author: xliu3019
 ######################################################################
 
 
