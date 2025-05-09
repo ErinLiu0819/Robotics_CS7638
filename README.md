@@ -1,5 +1,5 @@
 # Robotics_CS7638
-This repo contains the selected course work for CS7638 Robotics - AI Techniques at Georgia Tech.
+This repo contains my selected course projects for CS7638 Robotics - AI Techniques at Georgia Tech.
 
 More information on [course page](https://omscs.gatech.edu/cs-7638-robotics-ai-techniques).
 
